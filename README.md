@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<h2>:octocat: Olá, eu me chamo Erika! :octocat:</h2>
+<h2>Olá, eu me chamo Erika!</h2>
  
 <div align='left'>
   <p>💕 <b>Cursando o 4° período em Análise e Desenvolvimento de Sistemas</b></p>
