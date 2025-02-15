@@ -18,15 +18,13 @@
   <img alt="Logo HTML" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="Logo CSS" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Logo JavaScrit" height="34" width="34" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
-
   <img alt="Logo PostGRE" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="Logo MySQL" height="36" width="36" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"/>
-  <img alt="Logo MongoDB" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="Logo Python" height="36" width="36" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png"/>
-
-  <img alt="Logo Java" height="36" width="36" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png"/>
-  <img alt="Logo Figma" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="Logo Git" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Logo MongoDB" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img alt="Logo Python" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Logo Java" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Logo Figma" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img alt="Logo Git" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
             
 </div>
 
